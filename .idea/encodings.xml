@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../kermitx/client/src/admin/components/CreateEnvDialog/CreateEnvDialogContainer.tsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../kermitx/client/src/environment/components/AppCard/AppCard.tsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../mob_cluster/lib/mob_cluster/punter_manager.ex" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/.idea/.gitignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/config.exs" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lib/stuff/application.ex" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lib/stuff/stack.ex" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/stuff/user.ex" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lib/stuff/worker.ex" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/lib/stuff/worker_supervisor.ex" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mix.exs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/priv/repo/migrations/20191107064959_create_users_table.exs" charset="UTF-8" />
     <file url="PROJECT" charset="windows-1252" />
   </component>
 </project>

@@ -20,7 +20,9 @@ defmodule Stuff.Worker do
   end
 
   # Server
+
   def child_spec(name) do
+    # child_spec is called by worker supervisor automatically
     %{
       id: "Worker-#{name}",
       start: {__MODULE__, :start_link, [name]},

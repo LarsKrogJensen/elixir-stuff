@@ -22,6 +22,10 @@ defmodule Stuff.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
+      {:ecto_sql, "~> 3.0"},
+      {:postgrex, ">= 0.0.0"},
+      {:jason, "~> 1.1"},
+      {:plug_cowboy, "~> 2.1"},
       # dev
       {:remix, "~> 0.0.2", only: :dev},
       {:dialyxir, "~> 1.0.0-rc.6", only: [:dev], runtime: false},
